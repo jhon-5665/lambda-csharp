@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.exe
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.deps.json
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.dll
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\bin\Debug\netcoreapp3.1\lambda-csharp.pdb
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.dll
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.pdb
+C:\Users\estoque.bhe\source\repos\lambda-csharp\lambda-csharp\obj\Debug\netcoreapp3.1\lambda-csharp.genruntimeconfig.cache
