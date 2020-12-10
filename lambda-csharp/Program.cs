@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lambda_csharp
+namespace Course
 {
     class Program
     {
